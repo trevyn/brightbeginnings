@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+We're designing the new future.
 
-You can use the [editor on GitHub](https://github.com/trevyn/brightbeginnings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We know the world is changing, and we're building the future we want.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We believe in humans and family over greed and [hoarding](https://en.wikipedia.org/wiki/Hoarding_(economics)).
 
-### Markdown
+We are compassionate and peaceful.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We know that the old is being replaced by the new.
 
-```markdown
-Syntax highlighted code block
+It is not **us** vs **them**, it is us replacing them naturally and easily over time, because that is how time works.😂
 
-# Header 1
-## Header 2
-### Header 3
+It is not **new** vs **old**, it is new replacing old naturally and easily over time, because that is how time works.😂
 
-- Bulleted
-- List
+We know technology is powerful, and we use it to relax, to find peace, to build community, and to protect us from abuse and [coercion](https://en.wikipedia.org/wiki/Coercion).
 
-1. Numbered
-2. List
+We’ve learned everything that's important naturally and easily from YouTube, and we know that we can naturally and easily imagine the future we want.
 
-**Bold** and _Italic_ and `Code` text
+Let’s paint a picture of that new future. Together.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trevyn/brightbeginnings/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+And then build it.
