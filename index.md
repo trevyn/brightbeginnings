@@ -14,8 +14,10 @@ It is not **new** vs **old**, it is new replacing old naturally and easily over 
 
 We know technology is powerful, and we use it to relax, to find peace, to build community, and to protect us from abuse and [coercion](https://en.wikipedia.org/wiki/Coercion).
 
-We’ve learned everything that's important naturally and easily from YouTube, and we know that we can naturally and easily imagine the future we want.
+We’ve learned everything that's important naturally and easily from our peers on YouTube, and we know that we can naturally and easily imagine the future we want.
 
 Let’s paint a picture of that new future. Together.
 
 And then build it.
+
+And then live it.
