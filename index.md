@@ -20,4 +20,4 @@ Let’s paint a picture of that new future. Together.
 
 And then build it.
 
-And then live it.
+And then live in it!
